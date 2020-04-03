@@ -1,7 +1,7 @@
 # API Project: Request Header Parser Microservice
 
 ### User stories:
-1. I can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for my device.
+1. One can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for one's device.
 
 #### Example usage:
 * [base_url]/api/whoami
